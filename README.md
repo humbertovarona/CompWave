@@ -1,0 +1,2 @@
+# CompWave
+Compute wave parameters 
